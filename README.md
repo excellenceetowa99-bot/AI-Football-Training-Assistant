@@ -2,11 +2,10 @@
 
 Building AI course project
 
-#Summary
-
+##Summary
 This project is an AI-powered football training assistant that helps players improve their skills, fitness, and decision-making. It provides personalized training plans, tracks progress, and gives feedback based on the player's performance.
 
-#Background
+##Background
 
 Many football players do not have access to professional coaches or personalized training. As a result, they may train inefficiently and improve more slowly. I chose this topic because I enjoy football and believe AI can help players train smarter and reach their full potential.
 
@@ -14,7 +13,7 @@ Many football players do not have access to professional coaches or personalized
 * Training plans are often not personalized.
 * It is difficult for players to track their progress consistently.
 
-#How is it used?
+##How is it used?
 
 The user enters their age, position, skill level, and training goals into the app. The AI then creates a personalized training plan, suggests daily drills, monitors progress, and updates recommendations as the player's performance improves. The system is useful for beginners, amateur players, and anyone who wants to improve their football skills.
 
@@ -53,15 +52,15 @@ Useful resources:
 * Python: https://www.python.org/
 
   
-#Challenges
+##Challenges
 
 This project cannot replace a professional football coach or medical advice. The AI's recommendations may not always be accurate because they depend on the quality of the data provided by the user. User privacy and the protection of personal data must also be considered when collecting training information.
 
-#What next?
+##What next?
 
 In the future, the project could include video analysis to give feedback on a player's technique, injury prevention tips, and performance tracking over time. To build this, I would need more knowledge of machine learning, computer vision, mobile app development, and access to football training data.
 
-#Acknowledgments
+##Acknowledgments
 
 * Elements of AI – Building AI course
 * OpenAI ChatGPT for writing assistance and brainstorming
