@@ -56,19 +56,17 @@ If you need to use links, here's an example:
 | Header      | Title       |
 | Paragraph   | Text        |
 
-## Challenges
+#Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project cannot replace a professional football coach or medical advice. The AI's recommendations may not always be accurate because they depend on the quality of the data provided by the user. User privacy and the protection of personal data must also be considered when collecting training information.
 
-## What next?
+#What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+In the future, the project could include video analysis to give feedback on a player's technique, injury prevention tips, and performance tracking over time. To build this, I would need more knowledge of machine learning, computer vision, mobile app development, and access to football training data.
 
+#Acknowledgments
 
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* Elements of AI – Building AI course
+* OpenAI ChatGPT for writing assistance and brainstorming
+* FIFA and UEFA coaching resources for general football training ideas
+* Python documentation: https://docs.python.org/3/
