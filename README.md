@@ -1,7 +1,6 @@
-# AI Football Training Assistant
+## AI Football Training Assistant
 
-
-##Summary
+## Summary
 
 This project is an AI-powered football training assistant that helps players improve their skills, fitness, and decision-making. It provides personalized training plans, tracks progress, and gives feedback based on the player's performance.
 
