@@ -1,6 +1,4 @@
-# Aicourse
-
-AI Football Training Assistant
+# AI Football Training Assistant
 
 Building AI course project
 
