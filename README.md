@@ -43,15 +43,18 @@ else:
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The project would use football training data, player performance statistics, and user-provided information such as age, position, fitness level, and training goals. Data could come from public football datasets, coaching resources, and the users themselves.
 
+The AI would use supervised machine learning to recommend personalized training plans based on a player's profile and progress. As more training data becomes available, the recommendations can be improved.
+
+Useful resources:
+
+* FIFA: https://www.fifa.com/
+* Kaggle Football Datasets: https://www.kaggle.com/datasets
+* Python: https://www.python.org/
+
+  
 #Challenges
 
 This project cannot replace a professional football coach or medical advice. The AI's recommendations may not always be accurate because they depend on the quality of the data provided by the user. User privacy and the protection of personal data must also be considered when collecting training information.
